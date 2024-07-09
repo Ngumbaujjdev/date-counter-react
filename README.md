@@ -1,6 +1,3 @@
-Here’s a detailed README for your date counter app built with React:
-
----
 
 # Date Counter React App
 
